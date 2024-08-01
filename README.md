@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
 
-- 👨‍💻 I'm currently a student **of Software Engineering at Faculty of Technical Sciences**
+- 👨‍💻 I'm a student **of Software Engineering at Faculty of Technical Sciences**
 
 - 🔭 I’m currently working on **Portfolio website**
 
